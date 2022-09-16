@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0e5417afd6dfbd54abfa193f242d5520
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pawnPrefab: {fileID: 6356184150904385005, guid: d43ac8dff79547341b248f18ea811e28,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
